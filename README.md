@@ -1,10 +1,10 @@
 # JobWiz Browser Extension
 
-**Download the latest version**: [Releases](https://github.com/saneshark/jobwiz-extension/releases/latest)
+**[Download Extension](https://github.com/saneshark/jobwiz-extension/raw/main/jobwiz-extension.zip)** ⬅️ Click to download
 
-## Quick Install
+## Installation
 
-1. Download the latest `jobwiz-extension-vX.X.X.zip` from [Releases](https://github.com/saneshark/jobwiz-extension/releases)
+1. Download `jobwiz-extension.zip` using the link above
 2. Extract the ZIP file
 3. Open Chrome → `chrome://extensions`
 4. Enable "Developer mode" (top right toggle)
