@@ -1,0 +1,33 @@
+JobWiz Browser Extension - Build Information
+=============================================
+
+Version:           0.1.0
+Manifest Version:  0.1.0
+Extension Name:    JobWiz
+
+Build Date:        2025-11-01 00:46:15 PDT
+Build ID:          20251101-004615
+File Size:         268K
+
+Platform:          Chrome MV3
+Framework:         Plasmo v0.88.0
+Target:            Production
+
+Download:          https://github.com/saneshark/jobwiz-extension/raw/main/jobwiz-extension.zip
+
+Installation:      See README.md for detailed instructions
+Changelog:         See CHANGELOG.md for release notes
+
+Built from:        beta/UI-improvements branch
+Repository:        https://github.com/saneshark/jobwiz
+
+Security Notice:   This build has passed automated security checks
+                   - No API keys or secrets detected
+                   - Production URLs verified
+                   - Minified for distribution
+
+Support:           support@jobwiz.biz
+Bug Reports:       https://github.com/saneshark/jobwiz-extension/issues
+
+=============================================
+© 2025 JobWiz. All rights reserved.
