@@ -2,7 +2,7 @@
 
 All notable changes to JobWiz Browser Extension.
 
-## [0.1.0] - 2025-11-01
+## [0.1.1] - 2025-11-01
 
 ### Added
 - Initial beta release
