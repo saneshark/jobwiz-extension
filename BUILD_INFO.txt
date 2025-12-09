@@ -5,9 +5,9 @@ Version:           0.3.0
 Manifest Version:  0.3.0
 Extension Name:    JobWiz
 
-Build Date:        2025-11-13 19:51:43 PST
-Build ID:          20251113-195143
-File Size:         588K
+Build Date:        2025-12-09 15:40:00 PST
+Build ID:          20251209-154000
+File Size:         512K
 
 Platform:          Chrome MV3
 Framework:         Plasmo v0.88.0
@@ -18,7 +18,7 @@ Download:          https://github.com/saneshark/jobwiz-extension/raw/main/jobwiz
 Installation:      See README.md for detailed instructions
 Changelog:         See CHANGELOG.md for release notes
 
-Built from:        beta/UI-improvements branch
+Built from:        feature/browser_extension_final branch
 Repository:        https://github.com/saneshark/jobwiz
 
 Security Notice:   This build has passed automated security checks
