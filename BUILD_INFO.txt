@@ -1,8 +1,8 @@
 JobWiz Browser Extension - Build Information
 =============================================
 
-Version:           0.5.2
-Manifest Version:  0.5.2
+Version:           0.5.3
+Manifest Version:  0.5.3
 Extension Name:    JobWiz
 
 Build Date:        2025-12-12 11:22:14 PST

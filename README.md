@@ -1,6 +1,6 @@
 # JobWiz Browser Extension
 
-**Current Version:** v0.5.2
+**Current Version:** v0.5.3
 **Build Date:** 2025-12-12 11:22:14 PST
 **File Size:** 520K
 
@@ -59,8 +59,8 @@
 
 | Property | Value |
 |----------|-------|
-| **Version** | 0.5.2 |
-| **Manifest Version** | 0.5.2 |
+| **Version** | 0.5.3 |
+| **Manifest Version** | 0.5.3 |
 | **Build Date** | 2025-12-12 11:22:14 PST |
 | **Build ID** | 20251212-112214 |
 | **File Size** | 520K |

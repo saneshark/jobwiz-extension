@@ -5,6 +5,19 @@ All notable changes to the JobWiz Browser Extension will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.3] - 2025-12-12
+
+### Fixed
+- **Workday job-specific resume matching** - Fixed URL matching for Workday platforms (e.g., `myworkdayjobs.com`)
+  - Added support for Workday's alphanumeric job IDs (e.g., `_R25556`, `_JOB12345`)
+  - Optimized resumes now correctly match when visiting Workday job pages
+- **Improved job ID extraction** - Added support for:
+  - Workday: `_R25556` pattern at end of URL path
+  - Ashby: `ashby_jid` query parameter
+  - Better fallback for Greenhouse/Lever numeric IDs
+
+---
+
 ## [0.5.2] - 2025-12-12
 
 ### Fixed
