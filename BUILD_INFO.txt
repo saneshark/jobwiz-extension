@@ -18,7 +18,7 @@ Download:          https://github.com/saneshark/jobwiz-extension/raw/main/jobwiz
 Installation:      See README.md for detailed instructions
 Changelog:         See CHANGELOG.md for release notes
 
-Built from:        beta/UI-improvements branch
+Built from:        browser_extension_finesse branch
 Repository:        https://github.com/saneshark/jobwiz
 
 Security Notice:   This build has passed automated security checks
