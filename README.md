@@ -1,8 +1,8 @@
 # JobWiz Browser Extension
 
-**Current Version:** v0.4.0
-**Build Date:** 2025-12-11 01:38:13 PST
-**File Size:** 512K
+**Current Version:** v0.5.0
+**Build Date:** 2025-12-12 09:44:34 PST
+**File Size:** 524K
 
 ---
 
@@ -59,11 +59,11 @@
 
 | Property | Value |
 |----------|-------|
-| **Version** | 0.4.0 |
-| **Manifest Version** | 0.4.0 |
-| **Build Date** | 2025-12-11 01:38:13 PST |
-| **Build ID** | 20251211-013813 |
-| **File Size** | 512K |
+| **Version** | 0.5.0 |
+| **Manifest Version** | 0.5.0 |
+| **Build Date** | 2025-12-12 09:44:34 PST |
+| **Build ID** | 20251212-094434 |
+| **File Size** | 524K |
 | **Platform** | Chrome MV3 |
 | **Framework** | Plasmo v0.88.0 |
 
@@ -170,13 +170,13 @@ See [CHANGELOG.md](./CHANGELOG.md) for detailed version history.
 
 When reporting bugs, please include:
 - Chrome version (`chrome://version`)
-- Extension version (v0.4.0)
+- Extension version (v0.5.0)
 - Steps to reproduce
 - Screenshots of errors
 
 ---
 
-## 🚀 What's New in v0.4.0
+## 🚀 What's New in v0.5.0
 
 - See [CHANGELOG.md](./CHANGELOG.md) for complete release notes
 
