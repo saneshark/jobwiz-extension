@@ -1,13 +1,13 @@
 JobWiz Browser Extension - Build Information
 =============================================
 
-Version:           0.5.1
-Manifest Version:  0.5.1
+Version:           0.5.2
+Manifest Version:  0.5.2
 Extension Name:    JobWiz
 
-Build Date:        2025-12-12 10:24:00 PST
-Build ID:          20251212-102400
-File Size:         524K
+Build Date:        2025-12-12 11:22:14 PST
+Build ID:          20251212-112214
+File Size:         520K
 
 Platform:          Chrome MV3
 Framework:         Plasmo v0.88.0

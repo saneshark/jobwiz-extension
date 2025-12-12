@@ -5,6 +5,15 @@ All notable changes to the JobWiz Browser Extension will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.2] - 2025-12-12
+
+### Fixed
+- **Complete removal of ALL debug logging from content scripts** - Removed remaining console.log/error/warn statements from `side-panel.tsx` and `job-page.ts` that were missed in v0.5.1
+- Affected files: `side-panel.tsx` (~60 statements), `job-page.ts` (~15 statements)
+- Production builds now have zero console output for professional appearance
+
+---
+
 ## [0.5.1] - 2025-12-12
 
 ### Fixed

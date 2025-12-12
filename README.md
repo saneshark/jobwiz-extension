@@ -1,8 +1,8 @@
 # JobWiz Browser Extension
 
-**Current Version:** v0.5.1
-**Build Date:** 2025-12-12 10:24:00 PST
-**File Size:** 524K
+**Current Version:** v0.5.2
+**Build Date:** 2025-12-12 11:22:14 PST
+**File Size:** 520K
 
 ---
 
@@ -59,11 +59,11 @@
 
 | Property | Value |
 |----------|-------|
-| **Version** | 0.5.0 |
-| **Manifest Version** | 0.5.0 |
-| **Build Date** | 2025-12-12 09:44:34 PST |
-| **Build ID** | 20251212-094434 |
-| **File Size** | 524K |
+| **Version** | 0.5.2 |
+| **Manifest Version** | 0.5.2 |
+| **Build Date** | 2025-12-12 11:22:14 PST |
+| **Build ID** | 20251212-112214 |
+| **File Size** | 520K |
 | **Platform** | Chrome MV3 |
 | **Framework** | Plasmo v0.88.0 |
 
